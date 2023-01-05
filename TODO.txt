@@ -1,0 +1,11 @@
+[hardware]
+* assign LICENSE
+[schematic]
+* setup sheet
+* setup bom symbols
+* assign PNs
+* select xtal + load caps
+* assign net classes
+[layout]
+* setup bom library
+* 3d models
