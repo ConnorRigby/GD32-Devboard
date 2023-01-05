@@ -4,7 +4,7 @@
 * setup sheet
 * setup bom symbols
 * assign PNs
-* select xtal + load caps
+* select xtal(s) + load caps
 * assign net classes
 [layout]
 * setup bom library
