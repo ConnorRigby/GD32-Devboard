@@ -1,0 +1,9 @@
+# KiCAD backup files
+*-backups
+*.bak
+
+# KiCAD cache files
+fp-info-cache
+
+# part building and ingesting
+library/work
