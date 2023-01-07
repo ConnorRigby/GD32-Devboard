@@ -1368,7 +1368,7 @@
     (property "MPN" "GZ1005U102TF" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C17909" (id 5) (at 0 0 0)
+    (property "LCSC" "C19136" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "L ferrite bead inductor filter" (id 6) (at 0 0 0)

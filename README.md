@@ -1,4 +1,14 @@
-# GD32F405RGT6 Automotive Dev Board
+# GD32F405RGT6 Automotive Wireless Dev Board
+
+Simple development board featuring an ARM M4 based MCU
+and a handful of wireless communication modules. It is
+intended for use in Automotive prototyping and hacking.
+
+## Partial BOM
+
+This is not meant to emcompas every part on the board.
+It just lists some of the more notable parts. For the full
+BOM, check the [jlcpcb](/jlcpcb) folder.
 
 |part #|Description|source|
 |-|-|-|
@@ -11,7 +21,11 @@
 |LM317AG-TN3-R|ldo        |C75510  |
 |SIT1044TK/3  |CAN        |C2972660|
 
-## Power
+## Power Consumption
+
+This is by no means a complete list of all power required,
+it is just a reference for a educated guess, useful for
+deciding a power supply.
 
 |part #| typ|
 |-|-|
